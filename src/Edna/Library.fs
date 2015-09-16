@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace Edna
 
 /// Documentation for my library
 ///

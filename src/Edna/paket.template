@@ -1,0 +1,23 @@
+type project
+owners
+    Mark Townsend
+authors 
+    Mark Townsend
+projectUrl
+    http://github.com/markstownsend/Edna
+iconUrl
+    https://raw.githubusercontent.com/markstownsend/Edna/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/markstownsend/Edna/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    excel exceldna projectscaffold c#
+summary
+    Project for playing around with ExcelDNA in order to get back up to speed for an interview.
+description
+    Project for playing around with ExcelDNA in order to get back up to speed for an interview.
+
+

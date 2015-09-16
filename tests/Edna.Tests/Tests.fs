@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module Edna.Tests
 
-open FSharp.ProjectTemplate
+open Edna
 open NUnit.Framework
 
 [<Test>]
