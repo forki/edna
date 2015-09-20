@@ -1,7 +1,7 @@
 (*** hide ***)
 // This block of code is omitted in the generated HTML documentation. Use 
 // it to define helpers that you do not want to show in the documentation.
-#I "../../bin"
+#I "../../bin/Edna"
 
 (**
 Edna
@@ -29,7 +29,7 @@ This example demonstrates using a function defined in this sample library.
 #r "Edna.dll"
 open Edna
 
-printfn "hello = %i" <| Library.hello 0
+printfn "some number = %i" <| BasicFunctions.simpleFunc 42
 
 (**
 Some more info

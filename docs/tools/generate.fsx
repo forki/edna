@@ -19,7 +19,7 @@ let githubLink = "http://github.com/markstownsend/Edna"
 let info =
   [ "project-name", "Edna"
     "project-author", "Mark Townsend"
-    "project-summary", "Project for playing around with ExcelDNA in order to get back up to speed for an interview."
+    "project-summary", "Project shows how to test ExcelDNA addin with ApprovalTest."
     "project-github", githubLink
     "project-nuget", "http://nuget.org/packages/Edna" ]
 

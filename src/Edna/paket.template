@@ -14,10 +14,10 @@ requireLicenseAcceptance
 copyright
     Copyright 2015
 tags
-    excel exceldna projectscaffold c#
+    excel exceldna projectscaffold f# approvaltest
 summary
-    Project for playing around with ExcelDNA in order to get back up to speed for an interview.
+    Project shows how to test ExcelDNA addin with ApprovalTest.
 description
-    Project for playing around with ExcelDNA in order to get back up to speed for an interview.
+    Project shows how to test ExcelDNA addin with ApprovalTest.  Following a question I was asked at interview.
 
 

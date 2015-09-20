@@ -32,17 +32,17 @@ let project = "Edna"
 
 // Short summary of the project
 // (used as description in AssemblyInfo and as a short summary for NuGet package)
-let summary = "Project for playing around with ExcelDNA in order to get back up to speed for an interview."
+let summary = "Project shows how to test ExcelDNA addin with ApprovalTest."
 
 // Longer description of the project
 // (used as a description for NuGet package; line breaks are automatically cleaned up)
-let description = "Project for playing around with ExcelDNA in order to get back up to speed for an interview."
+let description = "Project shows how to test ExcelDNA addin with ApprovalTest.  Following a question I was asked at interview."
 
 // List of author names (for NuGet package)
 let authors = [ "Mark Townsend" ]
 
 // Tags for your project (for NuGet package)
-let tags = "excel exceldna projectscaffold c#"
+let tags = "excel exceldna projectscaffold f# approvaltest"
 
 // File system information 
 let solutionFile  = "Edna.sln"

@@ -3,10 +3,10 @@ open System.Reflection
 
 [<assembly: AssemblyTitleAttribute("Edna")>]
 [<assembly: AssemblyProductAttribute("Edna")>]
-[<assembly: AssemblyDescriptionAttribute("Project for playing around with ExcelDNA in order to get back up to speed for an interview.")>]
-[<assembly: AssemblyVersionAttribute("1.0")>]
-[<assembly: AssemblyFileVersionAttribute("1.0")>]
+[<assembly: AssemblyDescriptionAttribute("Project shows how to test ExcelDNA addin with ApprovalTest.")>]
+[<assembly: AssemblyVersionAttribute("0.1")>]
+[<assembly: AssemblyFileVersionAttribute("0.1")>]
 do ()
 
 module internal AssemblyVersionInformation =
-    let [<Literal>] Version = "1.0"
+    let [<Literal>] Version = "0.1"

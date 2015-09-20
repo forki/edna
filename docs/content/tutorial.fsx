@@ -4,16 +4,19 @@
 #I "../../bin"
 
 (**
-Introducing your project
+Edna shows the use of ApprovalTest with an Excel-Dna project.
 ========================
 
-Say more
+I was asked in an interview about the approach I would take to testing this type of project.  A neighbour mentioned ApprovalTest
+so this implementation is a proof of concept.  What I want to try also, although I can already see the limitations, is taking a picture
+of a range showing the result of the function delivered to the spreadsheet and pass that image through an OCR process to see the
+impact of any formats or column shortening set in the sheet.  Later though.
 
 *)
 #r "Edna.dll"
 open Edna
 
-Library.hello 0
+BasicFunctions.simpleFunc 0
 (**
-Some more info
+The function just echos the value passed back in to the calling cell.  It's just something basic to test.
 *)
