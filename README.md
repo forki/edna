@@ -17,10 +17,10 @@ Documentation: http://markstownsend.github.io/Edna
 
 ## Build Status
 
-Mono | .NET
----- | ----
-[![Mono CI Build Status](https://img.shields.io/travis/fsprojects/ProjectScaffold/master.svg)](https://travis-ci.org/fsprojects/ProjectScaffold) | [![.NET Build Status](https://img.shields.io/appveyor/ci/fsgit/ProjectScaffold/master.svg)](https://ci.appveyor.com/project/fsgit/projectscaffold)
-
+ .NET
+ ----
+<!--[![.NET Build Status](https://img.shields.io/appveyor/ci/fsgit/ProjectScaffold/master.svg)](https://ci.appveyor.com/project/fsgit/projectscaffold)
+-->
 ## Maintainer(s)
 
 - [@markstownsend](https://github.com/markstownsend)

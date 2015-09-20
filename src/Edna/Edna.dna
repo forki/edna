@@ -1,0 +1,4 @@
+﻿<DnaLibrary Name="Edna Add-In" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="Edna.dll" LoadFromBytes="true" ExplicitExports="true"/>
+  <Reference Path="FSharp.Core.dll" Pack="true"/>
+ </DnaLibrary>

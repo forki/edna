@@ -55,9 +55,6 @@
   <Import Project="$(FSharpTargetsPath)" />
   <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
   <ItemGroup>
-    <Content Include="ExcelDna-Template.dna">
-      <Paket>True</Paket>
-    </Content>
     <Compile Include="Tests.fs" />
     <None Include="paket.references" />
   </ItemGroup>
